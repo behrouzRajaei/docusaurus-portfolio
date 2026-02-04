@@ -6,7 +6,22 @@ import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
 
+import React from 'react';
+import Layout from '@theme/Layout';
+import Header from '../components/header';
+
 import styles from './index.module.css';
+
+export default function Home(): JSX.Element {
+  return (
+    <Layout title="Portfolio">
+      <Header />
+      <main>
+        {/* سایر بخش‌ها بعداً اضافه می‌شوند */}
+      </main>
+    </Layout>
+  );
+}
 
 function HomepageHeader() {
   const {siteConfig} = useDocusaurusContext();
