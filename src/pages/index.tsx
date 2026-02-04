@@ -9,6 +9,7 @@ import React from 'react';
 import Header from '../components/header';
 import Hero from '../components/hero';
 import MySkills from '../components/my-skills';
+import MyProjectHighlights from '../components/my-project-highlights';
 
 import styles from './index.module.css';
 
@@ -18,6 +19,7 @@ export default function Home(): JSX.Element {
       <Header />
       <Hero />
       <MySkills />
+      <MyProjectHighlights />
       <main>
         {/* سایر بخش‌ها بعداً اضافه می‌شوند */}
       </main>
