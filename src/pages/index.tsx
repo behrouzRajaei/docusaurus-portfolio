@@ -10,6 +10,7 @@ import Header from '../components/header';
 import Hero from '../components/hero';
 import MySkills from '../components/my-skills';
 import MyProjectHighlights from '../components/my-project-highlights';
+import Contact from '../components/contact';
 
 import styles from './index.module.css';
 
@@ -20,6 +21,7 @@ export default function Home(): JSX.Element {
       <Hero />
       <MySkills />
       <MyProjectHighlights />
+      <Contact />
       <main>
         {/* سایر بخش‌ها بعداً اضافه می‌شوند */}
       </main>
