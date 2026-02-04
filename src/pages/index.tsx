@@ -5,6 +5,7 @@ import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 import Heading from '@theme/Heading';
+import Hero from '../components/hero';
 
 import React from 'react';
 import Layout from '@theme/Layout';
@@ -16,6 +17,7 @@ export default function Home(): JSX.Element {
   return (
     <Layout title="Portfolio">
       <Header />
+      <Hero />
       <main>
         {/* سایر بخش‌ها بعداً اضافه می‌شوند */}
       </main>
