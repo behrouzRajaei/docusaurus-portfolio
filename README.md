@@ -6,14 +6,15 @@ A modern and responsive developer portfolio built with Docusaurus and React, sho
 
 ## Table of Contents
 
-- [1. Description](#1.-description)
-- [2. Tech Stack](#2.-tech-stack)
-- [3. Installation](#3.-installation)
-- [4. How to Start](#4.-how-to-start)
-- [5. Build](#5.-build)
-- [6. Deployment](#6.-deployment)
-- [7. Security Notes](#7.-security-notes)
-- [8. License](#8.-License)
+[1. Description](#1.-description)
+[2. Tech Stack](#2.-tech-stack)
+[3. Installation](#3.-installation)
+[4. How to Start](#4.-how-to-start)
+[5. Build](#5.-build)
+[6. Deployment](#6.-deployment)
+[7. Security Notes](#7.-security-notes)
+[8. License](#8.-License)
+
 ---
 
 ## 1. Description
@@ -28,6 +29,7 @@ The portfolio includes:
 - A contact section with professional links
 - Clean and modern UI design
 - The project is designed to be easily cloned, installed, and customized for personal use.
+
 ---
 
 ## 2. Tech Stack
@@ -41,6 +43,7 @@ This project is built using the following technologies:
 - *Node.js (v20)*
 - *npm*
 - *Installation*
+
 ---
 
 ## 3. Installation
@@ -64,7 +67,9 @@ cd docusaurus-portfolio
 ```bash
 npm install
 ```
+
 ---
+
 ## 4. How to Start
 
 After installing the dependencies, start the development server:
@@ -80,7 +85,9 @@ http://localhost:3000
 ```
 
 You can now view the portfolio in your browser.
+
 ---
+
 ## 5. Build
 
 To create a production build of the project, run:
@@ -92,6 +99,7 @@ npm run build
 This command generates an optimized static build inside the build directory.
 
 The generated files can be deployed to any static hosting provider.
+
 ---
 
 ## 6. Deployment
@@ -106,6 +114,7 @@ You can deploy the contents of this folder to any static hosting provider, such 
 - Any cloud-based static hosting service
 
 Make sure the hosting environment serves the files from the build directory.
+
 ---
 
 ## 7. Security Notes
@@ -119,6 +128,7 @@ However, as a general best practice:
 - If sensitive configuration is ever required, use environment variables instead of hardcoding them.
 
 Always follow secure development practices when modifying or extending this project.
+
 ---
 
 ## 8. License
