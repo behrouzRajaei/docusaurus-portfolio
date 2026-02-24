@@ -6,14 +6,14 @@ A modern and responsive developer portfolio built with Docusaurus and React, sho
 
 ## Table of Contents
 
-- [1. Description](#description)
-- [2. Tech Stack](#tech-stack)
-- [3. Installation](#installation)
-- [4. How to Start](#how-to-start)
-- [5. Build](#build)
-- [6. Deployment](#deployment)
-- [7. Security Notes](#security-notes)
-- [8. License](#license)
+- [1. Description](#1.-description)
+- [2. Tech Stack](#2.-tech-stack)
+- [3. Installation](#3.-installation)
+- [4. How to Start](#4.-how-to-start)
+- [5. Build](#5.-build)
+- [6. Deployment](#6.-deployment)
+- [7. Security Notes](#7.-security-notes)
+- [8. License](#8.-license)
 
 ---
 
