@@ -30,7 +30,7 @@ The portfolio includes:
 - The project is designed to be easily cloned, installed, and customized for personal use.
 ---
 
-## Tech Stack
+## 2. Tech Stack
 
 This project is built using the following technologies:
 
@@ -43,7 +43,7 @@ This project is built using the following technologies:
 - *Installation*
 ---
 
-## Installation
+## 3. Installation
 
 Follow these steps to install the project locally:
 
@@ -65,7 +65,7 @@ cd docusaurus-portfolio
 npm install
 ```
 ---
-## How to Start
+## 4. How to Start
 
 After installing the dependencies, start the development server:
 
@@ -81,7 +81,7 @@ http://localhost:3000
 
 You can now view the portfolio in your browser.
 ---
-## Build
+## 5. Build
 
 To create a production build of the project, run:
 
@@ -94,7 +94,7 @@ This command generates an optimized static build inside the build directory.
 The generated files can be deployed to any static hosting provider.
 ---
 
-## Deployment
+## 6. Deployment
 
 After running the production build, the static files are generated in the build directory.
 
@@ -108,7 +108,7 @@ You can deploy the contents of this folder to any static hosting provider, such 
 Make sure the hosting environment serves the files from the build directory.
 ---
 
-## Security Notes
+## 7. Security Notes
 
 This project does not require any environment variables or secret configuration to run locally.
 
@@ -121,6 +121,6 @@ However, as a general best practice:
 Always follow secure development practices when modifying or extending this project.
 ---
 
-## 9. License
+## 8. License
 
 This project is licensed under the MIT License.
